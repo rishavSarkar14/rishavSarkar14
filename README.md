@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, ML, Linux, Embedded Systems
 - 🌱 I’m currently learning x86 Architecture Instruction Set, and ML from scratch in Python
 - 💞️ I’m looking to collaborate on projects which require AI, ML or Embedded Systems
-- 📫 How to reach me - rishav.saarkar03@gmail.com
+- 📫 How to reach me - rishav.sarkar03@gmail.com
 
 <!---
 rishavSarkar14/rishavSarkar14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
